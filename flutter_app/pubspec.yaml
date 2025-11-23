@@ -1,0 +1,25 @@
+name: dht11_app
+description: "Flutter app pour DHT11 + notifications"
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.25.0
+  firebase_database: ^10.3.0
+  flutter_local_notifications: ^19.5.0
+  cupertino_icons: ^1.0.8
+  timezone: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
