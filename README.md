@@ -16,6 +16,8 @@ This project integrates an ESP32 microcontroller with a DHT11 temperature and hu
 - Local notifications on the device when values are out of set ranges
 - Alert dialog on app startup confirming ESP32 connection
 
+https://github.com/user-attachments/assets/b64bbf30-0cb4-40a4-8087-d4d33895e453   ![1](https://github.com/user-attachments/assets/d204ff0d-2f02-450c-8872-f3555d05901a)
+
 ---
 
 ## Hardware Setup
