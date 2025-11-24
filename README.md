@@ -20,7 +20,7 @@ This project integrates an ESP32 microcontroller with a DHT11 temperature and hu
 
 
 
-Uploading app running.mp4…
+https://github.com/user-attachments/assets/72c60c6c-5e31-4c16-9a99-fcc6db4a5409
 
 
 
